@@ -23,7 +23,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-174eee0742b080319548f722eae0b1f6?pvs=4)
+- [Notion Template](https://caramel-gruyere-f61.notion.site/PAS-Podcast-AI-Studio-174eee0742b080319548f722eae0b1f6?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
