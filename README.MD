@@ -19,7 +19,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - Roteiro gerado via ChatGPT
 - Audio gerado pelo ElevenLabs
 - Bing para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+- Capcut para tratar áudio e adicionar sons de fundo
 
 ## 📚 Materiais
 
